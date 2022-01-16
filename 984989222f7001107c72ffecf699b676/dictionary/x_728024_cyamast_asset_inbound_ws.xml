@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="asset_inbound_ws" max_length="40" name="x_728024_cyamast_asset_inbound_ws" sizeclass="400" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_asset_category" label="Asset category" max_length="40" name="u_asset_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_asset_services" label="Asset services" max_length="40" name="u_asset_services" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_asset_type" label="Asset type" max_length="40" name="u_asset_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_asset_type_id" label="Asset type ID" max_length="40" name="u_asset_type_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_broadcast_ip" label="Broadcast IP" max_length="40" name="u_broadcast_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_created_time" label="Created time" max_length="40" name="u_created_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_dhcp_client_name" label="Dhcp client name" max_length="40" name="u_dhcp_client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_domain_name_server_ipv4" label="Domain name server ipv4" max_length="40" name="u_domain_name_server_ipv4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_id" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_ip" label="IP" max_length="40" name="u_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_lastseen_time" label="Lastseen time" max_length="40" name="u_lastseen_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_life_cycle_state" label="Life cycle state" max_length="40" name="u_life_cycle_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_mac" label="Mac" max_length="40" name="u_mac" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_ntp_ipv4" label="Ntp ipv4" max_length="40" name="u_ntp_ipv4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_oui" label="Oui" max_length="40" name="u_oui" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_remote_services" label="Remote services" max_length="40" name="u_remote_services" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_router_ipv4" label="Router ipv4" max_length="40" name="u_router_ipv4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_subnet_mask" label="Subnet mask" max_length="40" name="u_subnet_mask" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_switch_mac" label="Switch mac" max_length="40" name="u_switch_mac" type="string"/>
+    </element>
+</database>

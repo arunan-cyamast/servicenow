@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CyAmast_Assets" max_length="40" name="x_728024_cyamast_assets" sizeclass="327" type="collection">
+        <element label="Asset category" max_length="40" name="asset_category" type="string"/>
+        <element label="Asset services" max_length="40" name="asset_services" type="string"/>
+        <element label="Asset type" max_length="40" name="asset_type" type="string"/>
+        <element label="Asset type ID" max_length="40" name="asset_type_id" type="integer"/>
+        <element label="Broadcast IP" max_length="40" name="broadcast_ip" type="string"/>
+        <element label="Created time" max_length="40" name="created_time" type="glide_date_time"/>
+        <element label="DHCP client name" max_length="40" name="dhcp_client_name" type="string"/>
+        <element label="Domain Name Server IPv4" max_length="40" name="domain_name_server_ipv4" type="string"/>
+        <element display="true" label="ID" mandatory="true" max_length="40" name="id" type="integer"/>
+        <element label="IP" max_length="40" name="ip" type="string"/>
+        <element label="Lastseen time" max_length="40" name="lastseen_time" type="glide_date_time"/>
+        <element label="Life cycle state" max_length="40" name="life_cycle_state" type="string"/>
+        <element label="MAC" max_length="40" name="mac" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="NTP IPv4" max_length="40" name="ntp_ipv4" type="string"/>
+        <element label="OUI" max_length="40" name="oui" type="string"/>
+        <element label="Remote services" max_length="40" name="remote_services" type="string"/>
+        <element label="Router IPv4" max_length="40" name="router_ipv4" type="string"/>
+        <element label="Subnet mask" max_length="40" name="subnet_mask" type="string"/>
+        <element label="Switch MAC" max_length="40" name="switch_mac" type="string"/>
+    </element>
+</database>
